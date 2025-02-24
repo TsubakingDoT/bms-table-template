@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "BOSS RUSH難易度表",
+"symbol" : "BS",
+"data_url" : "https://script.google.com/macros/s/AKfycbz8aNCF5n7BM4OwWgrLntKu5-E46DrwxSnYVGF88wT-S-kh0-qwfAKSwJe1an_-kWDp/exec"
 }
